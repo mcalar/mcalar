@@ -27,10 +27,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+  </a>
 </p>
 
 <br>
-
 <h3 align="center">Frontend 🌐</h3>
 
 <p align="center">
@@ -43,11 +45,11 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vuejs" />
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vite-6479A6?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind-08A3FF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
